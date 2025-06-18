@@ -1,6 +1,6 @@
 <h1>🌍 Carbon Emissions Prediction - Week 1</h1>
 
-Internship Program: Edunet Foundation x AICTE x IBM – AI 4 Weeks Internship
+Internship Program: Edunet Foundation x AICTE x Shell – AI 4 Weeks Internship
 Week 1 Task: Data Preprocessing and Cleaning
 Tool Used: Jupyter Notebook
 Libraries Used: pandas, numpy
@@ -51,5 +51,5 @@ Model Selection & Training
 
 <h3>🚀 Credits</h3>
 
-This project is part of the AI-For-India 2.0 – AI 4 Weeks Internship by Edunet Foundation in collaboration with AICTE and Shell.
+This project is part of the AI 4 Weeks Internship by Edunet Foundation in collaboration with AICTE and Shell.
 
